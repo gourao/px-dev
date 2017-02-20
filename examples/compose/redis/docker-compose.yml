@@ -7,3 +7,5 @@ redis:
   volume_driver: pxd
   volumes:
      - 'demo:/data'
+volumes:
+  demo:
